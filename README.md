@@ -12,9 +12,9 @@ This project investigates stroke risk prediction using both classical and modern
 
 1. Logistic Regression  
 2. Random Forest  
-3. CatBoost 
-4. XGBoost
-5. LightGBM
+3. XGBoost
+4. LightGBM
+5. CatBoost
 
 ## ⚙️ Methodology
 
@@ -42,6 +42,6 @@ This project investigates stroke risk prediction using both classical and modern
 
 ├── StrokePredictionCode.R # R code for preprocessing and model training
 
-├── Report-Stroke-Prediction.pdf # Output plots, metrics, and reports
+├── Report-Stroke-Prediction.pdf # Report
 
 └── README.md # Project overview
