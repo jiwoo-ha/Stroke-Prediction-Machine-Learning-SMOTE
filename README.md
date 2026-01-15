@@ -1,6 +1,6 @@
 # Stroke Prediction under Class Imbalance: A Comparison of Statistical and Machine Learning Models
 
-This project explores the effectiveness of various machine learning models in predicting stroke risk using clinical data. A major challenge in this dataset is class imbalance, which is addressed using SMOTE-NC (Synthetic Minority Over-sampling Technique for Nominal and Continuous features).
+This project investigates stroke risk prediction using both classical and modern ML models, addressing class imbalance through SMOTE-NC and comparing model interpretability and performance.
 
 ## 🔍 Dataset
 
@@ -27,6 +27,7 @@ This project explores the effectiveness of various machine learning models in pr
 
 - CatBoost and Logistic Regression showed the best performance in terms of AUC and Sensitivity.
 - Age, BMI, and average glucose level were the most important predictors across models.
+- 📄 [Download Full Project Report (PDF)](./Report-Stroke-Prediction.pdf)
 
 ## 🧪 Future Work
 
@@ -41,6 +42,6 @@ This project explores the effectiveness of various machine learning models in pr
 
 ├── StrokePredictionCode.R # R code for preprocessing and model training
 
-├── Stroke-Prediction-under-Class-Imbalance_A-Comparison-of-Statistical-and-Machine-Learning-Models.pdf # Output plots, metrics, and reports
+├── Report-Stroke-Prediction.pdf # Output plots, metrics, and reports
 
 └── README.md # Project overview
